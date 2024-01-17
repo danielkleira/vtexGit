@@ -1,1 +1,1 @@
-# vtexGit
+# vtexgitteam
